@@ -1,0 +1,109 @@
+
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Portatil Lenovo",
+      "precio": 2500000,
+      "categoria": "Tecnologia",
+      "disponible": true,
+      "dimensiones": {
+        "alto": 2,
+        "ancho": 36,
+        "profundidad": 24,
+        "unidad": "cm"
+      }
+    },
+    {
+      "id": 2,
+      "nombre": "Mouse Logitech",
+      "precio": 85000,
+      "categoria": "Accesorios",
+      "disponible": true,
+      "dimensiones": {
+        "alto": 4,
+        "ancho": 7,
+        "profundidad": 12,
+        "unidad": "cm"
+      }
+    },
+    {
+      "id": 3,
+      "nombre": "Teclado Gamer",
+      "precio": 150000,
+      "categoria": "Accesorios",
+      "disponible": false,
+      "dimensiones": {
+        "alto": 3,
+        "ancho": 44,
+        "profundidad": 14,
+        "unidad": "cm"
+      }
+    },
+    {
+      "id": 4,
+      "nombre": "Monitor Samsung",
+      "precio": 950000,
+      "categoria": "Tecnologia",
+      "disponible": true,
+      "dimensiones": {
+        "alto": 40,
+        "ancho": 60,
+        "profundidad": 20,
+        "unidad": "cm"
+      }
+    },
+    {
+      "id": 5,
+      "nombre": "Audifonos Bluetooth",
+      "precio": 120000,
+      "categoria": "Audio",
+      "disponible": true,
+      "dimensiones": {
+        "alto": 18,
+        "ancho": 16,
+        "profundidad": 8,
+        "unidad": "cm"
+      }
+    },
+    {
+      "id": 6,
+      "nombre": "Parlante JBL",
+      "precio": 280000,
+      "categoria": "Audio",
+      "disponible": false,
+      "dimensiones": {
+        "alto": 20,
+        "ancho": 10,
+        "profundidad": 10,
+        "unidad": "cm"
+      }
+    },
+    {
+      "id": 7,
+      "nombre": "Silla Ergonomica",
+      "precio": 650000,
+      "categoria": "Muebles",
+      "disponible": true,
+      "dimensiones": {
+        "alto": 110,
+        "ancho": 60,
+        "profundidad": 60,
+        "unidad": "cm"
+      }
+    },
+    {
+      "id": 8,
+      "nombre": "Escritorio",
+      "precio": 480000,
+      "categoria": "Muebles",
+      "disponible": true,
+      "dimensiones": {
+        "alto": 75,
+        "ancho": 120,
+        "profundidad": 60,
+        "unidad": "cm"
+      }
+    }
+  ]
+}
